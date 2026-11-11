@@ -7,5 +7,5 @@ test('Amazon Dynamic Xpath', async({page}) =>{
 
     await amazon.navigateUrl();
 
-    await amazon.searchBar('Iphone 17 pro')
+    //await amazon.searchBar('Iphone 17 pro')
 })

@@ -1,0 +1,3 @@
+Simple Alert Message:  I am an alert box!
+Confirm Alert Message:  Press a Button !
+Prompt Alert Message:  Please enter your name
